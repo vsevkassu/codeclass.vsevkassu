@@ -1,5 +1,5 @@
 <?
-$MESS["CC_VSEVKASSU_CASHBOX_CUSTOM_TITLE"] = "Всё в касу - печать чеков";
+$MESS["CC_VSEVKASSU_CASHBOX_CUSTOM_TITLE"] = "Всё в кассу - печать чеков";
 $MESS["CC_VSEVKASSU_CASHBOX_RECEIPT_NOT_FOUND"] = "Указанный чек не найден";
 $MESS["CC_VSEVKASSU_CASHBOX_RECEIPT_WAITING"] = "Чек ожидает печати";
 $MESS["CC_VSEVKASSU_CASHBOX_SETTINGS"] = "Настройки кассы";
